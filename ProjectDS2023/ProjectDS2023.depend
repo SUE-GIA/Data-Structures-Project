@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1687366454 source:d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\avltree.cpp
+	"AVLTree.h"
+
+1687366454 d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\avltree.h
+	"AVLNode.h"
+
+1687366454 d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\avlnode.h
+	"Pair.h"
+
+1687366454 d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\pair.h
+	<string>
+	<ostream>
+
+1687366454 source:d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\bst.cpp
+	"BST.h"
+
+1687366454 d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\bst.h
+	"Pair.h"
+
+1687366454 source:d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\functions.cpp
+	"Functions.h"
+
+1687366454 d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\functions.h
+	<string>
+
+1687373844 source:d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\hashtable.cpp
+	"HashTable.h"
+	<iostream>
+
+1687372232 d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\hashtable.h
+	"Pair.h"
+
+1687366454 source:d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\sortedarray.cpp
+	"SortedArray.h"
+
+1687366454 d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\sortedarray.h
+	"Pair.h"
+
+1687366454 source:d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\unorderedarray.cpp
+	"UnorderedArray.h"
+	<iostream>
+
+1687366454 d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\unorderedarray.h
+	"Pair.h"
+
+1687366868 source:d:\Σχολή\Μαθήματα\2.Δομές Δεδομένων\c++ 2023\projectds2023\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<chrono>
+	"Pair.h"
+	"Functions.h"
+	"UnorderedArray.h"
+	"SortedArray.h"
+	"BST.h"
+	"AVLTree.h"
+	"HashTable.h"
+
+1687371061 source:c:\users\gstef\desktop\projectds2023fin\projectds2023\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+	<chrono>
+	"Pair.h"
+	"Functions.h"
+	"UnorderedArray.h"
+	"SortedArray.h"
+	"BST.h"
+	"AVLTree.h"
+	"HashTable.h"
+
+1687362854 c:\users\gstef\desktop\projectds2023fin\projectds2023\pair.h
+	<string>
+	<ostream>
+
+1687362854 c:\users\gstef\desktop\projectds2023fin\projectds2023\functions.h
+	<string>
+
+1687362854 c:\users\gstef\desktop\projectds2023fin\projectds2023\unorderedarray.h
+	"Pair.h"
+
+1687362854 c:\users\gstef\desktop\projectds2023fin\projectds2023\sortedarray.h
+	"Pair.h"
+
+1687362854 c:\users\gstef\desktop\projectds2023fin\projectds2023\bst.h
+	"Pair.h"
+
+1687362854 c:\users\gstef\desktop\projectds2023fin\projectds2023\avltree.h
+	"AVLNode.h"
+
+1687362854 c:\users\gstef\desktop\projectds2023fin\projectds2023\avlnode.h
+	"Pair.h"
+
+1687368632 c:\users\gstef\desktop\projectds2023fin\projectds2023\hashtable.h
+	"Pair.h"
+
