@@ -1,0 +1,30 @@
+---------------------------------------------
+Unordered Array:
+Unordered Array creation time: 1295.54887 seconds
+Total pairs: 15000
+Total occurrences: 166426
+Search time: 4.96926 seconds
+---------------------------------------------
+Sorted Array:
+Sorted Array creation time: 1319.54150 seconds
+Total pairs: 15000
+Total occurrences: 166426
+Search time: 52.36198 seconds
+---------------------------------------------
+BST:
+BST creation time: 7.26309 seconds
+Total pairs: 15000
+Total occurrences: 166426
+Search time: 0.07302 seconds
+---------------------------------------------
+AVL Tree:
+AVL Tree creation time: 6.11141 seconds
+Total pairs: 15000
+Total occurrences: 166426
+Search time: 0.04671 seconds
+---------------------------------------------
+HashTable:
+HashTable creation time: 2759.45263 seconds
+Total pairs: 15000
+Total occurrences: 166426
+Search time: 4.38695 seconds
